@@ -1,0 +1,4 @@
+pandas 
+numpy
+seaborn
+#-e .  #To ensure the connectivity with setup.py
