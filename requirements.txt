@@ -1,9 +1,10 @@
 pandas 
-numpy
+numpy==1.26.4
 seaborn
 matplotlib
 scikit-learn
-catboost
+catboost==1.2.5
 xgboost
-
+dill 
+flask 
 #-e .  #To ensure the connectivity with setup.py
